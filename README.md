@@ -4,6 +4,21 @@ Pets App
 This app displays a list of pets and their related data that the user inputs.
 Used in a Udacity course in the Android Basics Nanodegree by Google.
 
+<br />
+##Skills Used:<br />
+1- SQLite Database<br />
+
+2- Content Provider<br />
+
+3- Content Resolver<br />
+
+4- Building Scheme and Contract<br />
+
+##Screenshots:<br />
+![Alt Text](https://i.imgsafe.org/bb3d9db80d.png "")<br />
+![Alt Text](https://i.imgsafe.org/bb3d89d743.png "")<br />
+![Alt Text](https://i.imgsafe.org/bb3d86b549.png "")<br />
+
 
 
 License
